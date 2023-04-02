@@ -13,8 +13,8 @@ python distill.py --data xxx --hyp xxx --epochs xx --batch-size xx --img-size xx
 ```
 
 **tips:**  
-"--new_head_dist ----backbone_distillation neck_distillation --origin_loss"
-stands for starting head stage distiller, backbone stage distiller, neck stage distiller and  detection mudule.  
+> "--new_head_dist ----backbone_distillation neck_distillation --origin_loss"
+ stands for starting head stage distiller, backbone stage distiller, neck stage distiller and  detection mudule.  
 
 
 ## Distilled layer
