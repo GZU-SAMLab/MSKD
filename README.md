@@ -42,7 +42,7 @@ The 2 sets of layers we selected from the student model are used in the backbone
 ## Test Model
 
 ```shell
-python test.py --data xxx.yaml --img xx --batch xx --conf 0.001 --iou 0.65 --device xxx --cfg xx.cfg --weights xx.pt --name Mobile-yolor_BDistllation
+python test.py --data xxx.yaml --img xx --batch xx --conf 0.001 --iou 0.65 --device xxx --cfg xx.cfg --weights xx.pt --name xx
 
 ```
 
