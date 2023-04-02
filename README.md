@@ -10,6 +10,7 @@
 
 ![](https://user-images.githubusercontent.com/129635436/229328800-110d1633-75b1-42d5-9804-58860c8dd17e.png)
 
+
 ## About Data Cleaning
 We cleaned the labels of the PlantDoc dataset, and we will provide the cleaned labels. 
 However, it should be noted that the names of a very small number of pictures are too long and have been modified by us.
