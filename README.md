@@ -8,7 +8,7 @@
 
 ## Result
 
-![image](https://user-images.githubusercontent.com/129635436/229328800-110d1633-75b1-42d5-9804-58860c8dd17e.png)
+![image](https://user-images.githubusercontent.com/129635436/229328800-110d1633-75b1-42d5-9804-58860c8dd17e.png){:height="70%" width="70%"}
 
 
 ## About Data Cleaning
