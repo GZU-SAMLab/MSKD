@@ -39,6 +39,12 @@ The 2 sets of layers we selected from the student model are used in the backbone
 - **Mobile-YOLOR-v2** `(5,8,12,17)` , `(53,62,71,80)`
 
 
+## Test Model
+
+```shell
+python test.py --data xxx.yaml --img xx --batch xx --conf 0.001 --iou 0.65 --device xxx --cfg xx.cfg --weights xx.pt --name Mobile-yolor_BDistllation
+
+```
 
 ## Result
 
