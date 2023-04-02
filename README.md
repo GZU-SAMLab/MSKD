@@ -2,7 +2,14 @@
 
 **Mutil-stage knowledge distillation (MSKD)** can facilitate the accuracy of plant disease detection, which may be a new and vital direction for lightweight algorithmic models in smart agriculture with practical applications.
 
+## The Overview of Mutil-stage Knowledge Distillation
+
 ![](methodOverview.png)
+
+## Result
+
+![image](https://user-images.githubusercontent.com/129635436/229328800-110d1633-75b1-42d5-9804-58860c8dd17e.png)
+
 
 ## About Data Cleaning
 We cleaned the labels of the PlantDoc dataset, and we will provide the cleaned labels. 
