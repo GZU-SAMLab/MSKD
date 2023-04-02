@@ -8,6 +8,7 @@ However, it should be noted that the names of a very small number of pictures ar
 
 
 ## Distill Model
+
 ```shell
 python distill.py --data xxx --hyp xxx --epochs xx --batch-size xx --img-size xx --device xxx --name xxx --teacher_weights xx.pt --teacher_cfg xx.cfg --student_cfg xx.cfg --student_backbone_feature xx,xx,xx,xx --teacher_backbone_feature xx,xx,xx,xx --student_neck_feature xx,xx,xx,xx --teacher_neck_feature xx,xx,xx,xx --head_weight xx --neck_weight xx --backbone_weight xx --target_weight xx --background_weight xx --attention_weight xx --global_weight xx --distillation_weight xx --new_head_dist ----backbone_distillation neck_distillation --origin_loss
 ```
@@ -19,4 +20,5 @@ python distill.py --data xxx --hyp xxx --epochs xx --batch-size xx --img-size xx
 
 ## Distilled layer
 
-
+The 3 sets of layers we selected from the teacher model (YOLOR) are used in the backbone stage distiller, neck stage distiller, and head stage distiller they are:
+(), (), ().
