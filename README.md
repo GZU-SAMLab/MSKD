@@ -20,5 +20,5 @@ python distill.py --data xxx --hyp xxx --epochs xx --batch-size xx --img-size xx
 
 ## Distilled layer
 
-The 3 sets of layers we selected from the teacher model (YOLOR) are used in the backbone stage distiller, neck stage distiller, and head stage distiller they are:
-(), (), ().
+The 2 sets of layers we selected from the teacher model (YOLOR) are used in the backbone stage distiller and neck stage distiller, and they are:
+`(43,70,85,115)` , `(163,176,189,202)` .
