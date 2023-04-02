@@ -1,0 +1,10 @@
+# train and val datasets (image directory or *.txt file with image paths)
+train: data/plantdoc/plantdoc_train.txt
+val: data/plantdoc/plantdoc_test.txt
+test: data/plantdoc/plantdoc_test.txt
+
+# number of classes
+nc: 27
+
+# class names
+names: ['Potato leaf late blight','Cherry leaf','Tomato leaf mosaic virus','Tomato leaf','Blueberry leaf','Squash Powdery mildew leaf','Tomato leaf late blight','Peach leaf','Soyabean leaf','Potato leaf early blight','Tomato Septoria leaf spot','grape leaf','Tomato mold leaf','Bell_pepper leaf','Strawberry leaf','Apple leaf','Raspberry leaf','Corn Gray leaf spot','Apple rust leaf','Apple Scab Leaf','Corn rust leaf','Tomato Early blight leaf','Bell_pepper leaf spot','Corn leaf blight','grape leaf black rot','Tomato leaf yellow virus','Tomato leaf bacterial spot']
