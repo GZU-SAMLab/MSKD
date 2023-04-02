@@ -8,8 +8,7 @@
 
 ## Result
 
-![image](https://user-images.githubusercontent.com/129635436/229328800-110d1633-75b1-42d5-9804-58860c8dd17e.png){:height="70%" width="70%"}
-
+<img src="https://user-images.githubusercontent.com/129635436/229328800-110d1633-75b1-42d5-9804-58860c8dd17e.png" width="50%" height="50%">
 
 ## About Data Cleaning
 We cleaned the labels of the PlantDoc dataset, and we will provide the cleaned labels. 
