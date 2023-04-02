@@ -6,10 +6,6 @@
 
 ![](methodOverview.png)
 
-## Result
-
-![](https://user-images.githubusercontent.com/129635436/229328800-110d1633-75b1-42d5-9804-58860c8dd17e.png)
-
 
 ## About Data Cleaning
 We cleaned the labels of the PlantDoc dataset, and we will provide the cleaned labels. 
@@ -41,3 +37,11 @@ The 2 sets of layers we selected from the student model are used in the backbone
 - **YOLOR-Light-v2** `(25,39,49,63)` , `(99,108,117,126)` 
 - **Mobile-YOLOR-v1** `(5,8,12,17)` , `(53,62,71,80)`
 - **Mobile-YOLOR-v2** `(5,8,12,17)` , `(53,62,71,80)`
+
+
+
+## Result
+
+![](https://user-images.githubusercontent.com/129635436/229328800-110d1633-75b1-42d5-9804-58860c8dd17e.png)
+
+
