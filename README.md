@@ -2,7 +2,7 @@
 
 **Mutil-stage knowledge distillation (MSKD)** can facilitate the accuracy of plant disease detection, which may be a new and vital direction for lightweight algorithmic models in smart agriculture with practical applications.
 
-Qianding Huang, Xingcai Wu, Qi Wang*, Xinyu Dong, Liang Lei, Xue Wu, Yangyang Gao, and Gefei Hao. Knowledge Distillation Facilitates the Lightweight and Efficient of Plant Diseases Detection Model. Plant Phenomics, 2023, 5:0062.
+Qianding Huang, Xingcai Wu, Qi Wang*, Xinyu Dong, Liang Lei, Xue Wu, Yangyang Gao, and Gefei Hao. Knowledge Distillation Facilitates the Lightweight and Efficient of Plant Diseases Detection Model. Plant Phenomics, 2023, 5:0062. https://doi.org/10.34133/plantphenomics.0062
 
 ## The Overview of Mutil-stage Knowledge Distillation
 
